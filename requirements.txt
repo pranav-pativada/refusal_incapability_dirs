@@ -1,0 +1,44 @@
+# PyTorch with CUDA support
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+
+# ML & DL
+huggingface_hub
+torchtext
+torchinfo
+
+# Data manipulation and analysis
+einops
+pandas
+numpy
+numpy-stl
+scikit-learn
+
+
+# Utilities
+requests
+pytest
+tqdm
+ipykernel
+notebook
+ipywidgets==7.7.1
+jupyterlab-widgets==1.1.1
+jupyter
+pre-commit
+gdown
+portalocker>=2.0.0
+typeguard
+jaxtyping
+tiktoken
+frozendict
+tabulate
+
+# Visualisation
+matplotlib
+colorama
+
+# Transformer Specific
+transformers
+transformer_lens
+transformers_stream_generator
