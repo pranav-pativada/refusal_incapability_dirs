@@ -20,7 +20,7 @@ Refusal and incapability behaviours are two ways to say "no" - so how do LLMs me
 ```
 git clone https://github.com/pranav-pativada/refusal_incapability_dirs.git
 cd refusal_incapability_dirs
-source setup.sh # You will be prompted with a HuggingFace token (needed for gated models). 
+source setup.sh
 ```
 You will be prompted with a HuggingFace token (needed for gated models), and then a virtual environment 
 with the required packages will be set up.
